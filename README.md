@@ -6,7 +6,7 @@
 
 # Theosis
 - "Theosis: The True Meaning of Human Life": [https://biblethingsinbibleways.wordpress.com/2013/11/21/sect-of-the-way-the-nazarenes-christians-names-given-to-the-early-church/]
-- "CIA Gateway Process": [https://docs.google.com/viewerng/viewer?url=https://s3.documentcloud.org/documents/20601195/6-full-report.pdf]
+- "CIA Gateway Process(Page 24-25 has the goodies, belief systems)": [https://docs.google.com/viewerng/viewer?url=https://s3.documentcloud.org/documents/20601195/6-full-report.pdf]
 
 # ISO 20022
 - "ISO 20022 Crypto coins": [https://www.google.com/search?q=iso+20022+coins&rlz=1C1VDKB_enUS1021US1021&oq=iso+20022&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIOCAEQRRgnGDsYgAQYigUyBggCEEUYOzIGCAMQRRg7MgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQg2MzAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8]
