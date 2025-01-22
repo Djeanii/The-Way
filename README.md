@@ -1,7 +1,7 @@
 # The Way
 - "Sect of “The Way”, “The Nazarenes” & “Christians”(2013)" : Names given to the Early Church": [https://biblethingsinbibleways.wordpress.com/2013/11/21/sect-of-the-way-the-nazarenes-christians-names-given-to-the-early-church/]
 - "The Essenes": [https://www.thewaymissions.org/histories/the-religious-times-of-jesus/the-essenes/#:~:text=Nazarene%20Essenes%20interpreted%20the%20theology,22.66%2D71).]
-- "The Ancient Nazarenes()": [https://lifehopeandtruth.com/change/the-church/church-history-ancient-nazarenes/]
+- "The Ancient Nazarenes": [https://lifehopeandtruth.com/change/the-church/church-history-ancient-nazarenes/]
 - "The Nazarene and the Sect of the Nazarenes(1881)": [https://www.spurgeon.org/resource-library/sermons/the-nazarene-and-the-sect-of-the-nazarenes/#flipbook/]
 
 # Theosis
