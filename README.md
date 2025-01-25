@@ -9,6 +9,7 @@
 - "CIA Gateway Process(Page 24-25 has the goodies, belief systems)": [https://docs.google.com/viewerng/viewer?url=https://s3.documentcloud.org/documents/20601195/6-full-report.pdf]
 
 # ISO 20022
+- "Key patent w/ links to others": [https://patents.google.com/patent/US10984413B2/en]
 - "ISO 20022 Crypto coins": [https://www.google.com/search?q=iso+20022+coins&rlz=1C1VDKB_enUS1021US1021&oq=iso+20022&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIOCAEQRRgnGDsYgAQYigUyBggCEEUYOzIGCAMQRRg7MgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQg2MzAwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8]
 - "XDC": XDC Website[https://xdc.org/]
 - "SWIFT ISO Website": [https://www.swift.com/standards/iso-20022]
